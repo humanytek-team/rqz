@@ -4,3 +4,6 @@
 [submodule "product_compromise"]
 	path = product_compromise
 	url = https://github.com/humanytek-team/product_compromise
+[submodule "product_supply"]
+	path = product_supply
+	url = https://github.com/humanytek-team/product_supply
