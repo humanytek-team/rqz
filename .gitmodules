@@ -16,3 +16,6 @@
 [submodule "sale_date_promised"]
 	path = sale_date_promised
 	url = https://github.com/humanytek-team/sale_date_promised
+[submodule "sale_guide_transport"]
+	path = sale_guide_transport
+	url = https://github.com/skukered/sale_guide_transport
