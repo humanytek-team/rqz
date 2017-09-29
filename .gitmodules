@@ -10,3 +10,6 @@
 [submodule "sale_user_required"]
 	path = sale_user_required
 	url = https://github.com/humanytek-team/sale_user_required
+[submodule "sale_order_observation"]
+	path = sale_order_observation
+	url = https://github.com/humanytek-team/sale_order_observation
