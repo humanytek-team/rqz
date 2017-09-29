@@ -7,3 +7,6 @@
 [submodule "product_supply"]
 	path = product_supply
 	url = https://github.com/humanytek-team/product_supply
+[submodule "sale_user_required"]
+	path = sale_user_required
+	url = https://github.com/humanytek-team/sale_user_required
