@@ -25,3 +25,6 @@
 [submodule "order_decimal"]
 	path = order_decimal
 	url = https://github.com/humanytek-team/order_decimal
+[submodule "mrp_ii"]
+	path = mrp_ii
+	url = https://github.com/humanytek-team/mrp_ii
