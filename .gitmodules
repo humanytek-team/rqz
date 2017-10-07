@@ -19,3 +19,6 @@
 [submodule "sale_guide_transport"]
 	path = sale_guide_transport
 	url = https://github.com/skukered/sale_guide_transport
+[submodule "mrp_mpps"]
+	path = mrp_mpps
+	url = https://github.com/humanytek-team/mrp_mpps
