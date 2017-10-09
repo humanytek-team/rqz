@@ -28,3 +28,6 @@
 [submodule "mrp_ii"]
 	path = mrp_ii
 	url = https://github.com/humanytek-team/mrp_ii
+[submodule "mrp_report"]
+	path = mrp_report
+	url = https://github.com/humanytek-team/mrp_report
