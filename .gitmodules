@@ -31,3 +31,6 @@
 [submodule "mrp_report"]
 	path = mrp_report
 	url = https://github.com/humanytek-team/mrp_report
+[submodule "sale_discount_report"]
+	path = sale_discount_report
+	url = https://github.com/humanytek-team/sale_discount_report
