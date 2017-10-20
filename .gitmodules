@@ -40,3 +40,6 @@
 [submodule "archive_product_partner"]
 	path = archive_product_partner
 	url = https://github.com/humanytek-team/archive_product_partner
+[submodule "force_assign_invisible"]
+	path = force_assign_invisible
+	url = https://github.com/humanytek-team/force_assign_invisible
