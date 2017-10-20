@@ -37,3 +37,6 @@
 [submodule "mrp_upload_forecast"]
 	path = mrp_upload_forecast
 	url = https://github.com/humanytek-team/mrp_upload_forecast
+[submodule "archive_product_partner"]
+	path = archive_product_partner
+	url = https://github.com/humanytek-team/archive_product_partner
