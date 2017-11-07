@@ -49,3 +49,6 @@
 [submodule "sale_discount_general_htmk"]
 	path = sale_discount_general_htmk
 	url = https://github.com/humanytek-team/sale_discount_general_htmk
+[submodule "sale_discount_general_line"]
+	path = sale_discount_general_line
+	url = https://github.com/humanytek-team/sale_discount_general_line
