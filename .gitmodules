@@ -52,3 +52,6 @@
 [submodule "sale_discount_general_line"]
 	path = sale_discount_general_line
 	url = https://github.com/humanytek-team/sale_discount_general_line
+[submodule "responsible_confirm_order"]
+	path = responsible_confirm_order
+	url = https://github.com/humanytek-team/responsible_confirm_order
