@@ -46,3 +46,6 @@
 [submodule "stock_kardex"]
 	path = stock_kardex
 	url = https://github.com/humanytek-team/stock_kardex
+[submodule "sale_discount_general_htmk"]
+	path = sale_discount_general_htmk
+	url = https://github.com/humanytek-team/sale_discount_general_htmk
