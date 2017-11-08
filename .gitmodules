@@ -55,3 +55,6 @@
 [submodule "responsible_confirm_order"]
 	path = responsible_confirm_order
 	url = https://github.com/humanytek-team/responsible_confirm_order
+[submodule "invoice_payment_date"]
+	path = invoice_payment_date
+	url = https://github.com/humanytek-team/invoice_payment_date
